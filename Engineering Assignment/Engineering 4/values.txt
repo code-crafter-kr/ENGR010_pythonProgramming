@@ -1,0 +1,6 @@
+inches meters 36.0
+meters inches 2.0
+square_inches square_meters 148.2
+square_meters square_inches 12.1
+cubic_inches cubic_meters 1728.0
+cubic_meters cubic_inches 1.0

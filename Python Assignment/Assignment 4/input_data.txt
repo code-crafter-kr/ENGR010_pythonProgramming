@@ -1,0 +1,5 @@
+1. this is just a short file.
+2. We can use this to test different file operations.
+3. Sometimes we only need a little bit of text.
+4. That is why this file was created.
+5. There are just a few lines in this file.

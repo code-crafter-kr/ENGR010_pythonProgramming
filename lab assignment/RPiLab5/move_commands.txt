@@ -1,0 +1,10 @@
+forward,1,1,2
+rrotate,0.5,0.5,1
+forward,1,1,0.5
+stop,0,0,3
+rrotate,0.5,0.5,1
+backward,0.5,0.5,1
+rrotate,0.5,0.5,1
+forward,1,1,0.5
+rrotate,0.5,0.5,2
+N

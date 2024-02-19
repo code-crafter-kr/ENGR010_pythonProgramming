@@ -1,0 +1,13 @@
+forward,1,1,1
+stop,0,0,0.5
+lrotate,0.5,0.5,0.5
+stop,0,0,0.5
+backward,1,1,0.5
+rrotate,0.5,0.5,0.5
+stop,0,0,0.5
+backward,1,1,1
+rrotate,0.5,0.5,1
+stop,0,0,0.5
+forward,1,1,0.5
+rrotate,0.5,0.5,2
+
